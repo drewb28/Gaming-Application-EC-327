@@ -1,0 +1,4 @@
+#Mon Dec 11 18:17:43 EST 2017
+base.0=/Users/Chris/Downloads/EC327FinalProject-master/EC327Final/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex
